@@ -1,0 +1,26 @@
+.footer{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #838286;
+    text-align: left;
+    background-color: white;
+    padding: 40px 0 40px;
+}
+.footerP{
+    font-size: 12px;
+    padding: 0% 35%;
+    color: #838286;
+    text-align: left;  
+}
+hr{
+    border: 0;
+    border-top: 1px solid #838286;
+}
+.imgRow{
+    justify-content: space-around;
+}
+.copyright{
+    text-align: right;
+}
+

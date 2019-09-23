@@ -1,0 +1,41 @@
+nav{
+    background-color: #F5F5F5;
+    padding-left: 100px;
+}
+.cart{
+    margin-left: 300px;
+}
+.counter{
+    color: white;
+    border: 1px solid orange;
+    background-color: orange;
+    border-radius: 100%;
+    padding: 6px 12px;
+    margin: 10px 20px;
+    
+}
+
+.btn{
+    text-decoration: none;
+    color: #838286;
+    padding: 15px 0;
+    font-weight: bolder;
+    margin: 10px 20px;
+}
+
+.hr{
+    margin-top: 0px;
+    margin-left: -100px; 
+    background-color: #838286;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+.verde{
+    border: 2px solid #03d0b6;
+    color: #03d0b6;
+    border-radius: 35%;
+    padding: 10px 20px;
+    line-height: 1;
+}
+

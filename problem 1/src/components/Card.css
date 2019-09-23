@@ -1,0 +1,39 @@
+
+.plate-card {
+    border: 1px solid rgba(0,0,0,.06);
+    margin-bottom: 20px;
+    background-color: white;
+    
+}
+
+.plate-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.plate-card h5 {
+    margin-top: 15px
+}
+
+.plate-card h5, .plate-card h6 {
+    margin-left: 15px;
+    margin-right: 15px;
+    color:  #838286;;
+}
+
+.plate-card h6 {
+    font-size: .9em;
+    margin-top: 25px;
+}
+
+.plate-card button {
+ border: 2px solid orange;
+ border-radius: 100%;
+ color: orange;
+ padding: 5px;
+}
+
+.plus{
+   justify-content: space-around;
+}

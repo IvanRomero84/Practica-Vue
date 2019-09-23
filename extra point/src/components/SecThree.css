@@ -1,0 +1,27 @@
+.seccThree{
+    text-align: center;
+    padding: 150px 0;
+    background-color: rgba(0,0,0,0.5);
+  
+}
+.opacity2{
+    background-image: url('../../public/hero-actions.jpg');
+    background-size: cover; 
+}
+
+h1,button{
+    color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    top: 50%;
+    left: 50%;
+    padding: 15px 0;
+}
+.seccThreeP{
+    color: white;
+    font-size: 1.8em;
+    padding: 4% 23%;
+}
+.btn{
+    margin: 0px 5px;
+
+}

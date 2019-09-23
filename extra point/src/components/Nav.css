@@ -1,0 +1,23 @@
+
+a{
+    text-decoration: none;
+    margin: 10px 10px;
+}
+h6{
+    margin-top: 20px;
+}
+.navigation{
+    background-color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 1.42857;
+    color: #838286;
+    position: fixed;
+    width: 100%;
+    padding: 20px 0;
+    z-index: 9999;
+    transition: all .3s;
+}
+
+
+
